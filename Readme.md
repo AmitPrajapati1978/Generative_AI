@@ -1,7 +1,6 @@
 # Generative AI - Assignments Repository
 
-This repository contains all the assignments and projects for the **Generative AI** subject. Each file demonstrates the practical implementation of generative and discriminative models and their performance evaluation on various datasets.
-
+This repository contains all the assignments and projects for the **Generative AI** subject.
 ### 📌 **Note**
 If the `.ipynb` files are not rendering correctly on GitHub, you can view them using **nbviewer**:
 1. Go to [nbviewer](https://nbviewer.org/).
