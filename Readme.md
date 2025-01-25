@@ -25,7 +25,6 @@ This assignment explores the differences between Naive Bayes (Generative Model) 
   - AUC (Area Under the ROC Curve) evaluation
   - Lift and Gain charts for model ranking
 - **Dataset**: Penguins (Adelie and Gentoo species only).
-- **File**: [Penguins Analysis](./Amit_Prajapati_GEN_AI_Assignement_1.ipynb)
 
 ---
 
@@ -35,7 +34,5 @@ This assignment explores the differences between Naive Bayes (Generative Model) 
   - Evaluate Naive Bayes and Logistic Regression on image data.
   - Compare performance differences between simple (Penguins) and complex (MNIST) datasets.
 - **Dataset**: MNIST (Digits '0' and '1').
-- **File**: [MNIST Analysis](./Amit_Prajapati_GEN_AI_Assignement_2.ipynb)
-
 
 ---
