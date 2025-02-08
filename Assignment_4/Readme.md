@@ -15,17 +15,13 @@ Answer the following conceptual questions related to GANs:
 ### **💻 2. Coding Tasks**
 Modify and expand the GAN architecture to improve its generative capabilities.
 
-#### 🔹 **Task 1: Implement a Deep Convolutional GAN (DCGAN) for CIFAR-10**  
-Modify the existing GAN architecture by introducing **convolutional layers** for improved image quality.
+#### 🔹 **Task 1: Modify the generator to include additional convolutional layers.**  
 
-#### 🔹 **Task 2: Implement Spectral Normalization in the Discriminator**  
+#### 🔹 **Task 2: Implement image saving after every 10 epochs**  
 Use **spectral normalization** to stabilize GAN training and prevent mode collapse.
 
-#### 🔹 **Task 3: Experiment with Different GAN Loss Functions**  
-Compare the performance of different loss functions like **Wasserstein loss** and **Hinge loss**.
+#### 🔹 **Task 3: Replace the MNIST dataset with CIFAR-10 and update the network for the new dimensions**  
 
-#### 🔹 **Task 4: Train GAN on a New Dataset**  
-Train the model on a dataset other than CIFAR-10 to test its ability to generate diverse images.
 
 ---
 
